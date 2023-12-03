@@ -1,0 +1,78 @@
+.div1{
+   
+    padding: 6px;
+    border: solid;
+    border-color: grey;
+    border-width: 1px;
+    background-color: rgb(23, 70, 15);
+    color: white;
+    cursor: pointer;
+    justify-content: center;
+    padding-left: 25px;
+
+}
+.div2{
+   
+    padding: 6px;
+    border: solid;
+    border-color: grey;
+    border-width: 1px;
+    background-color: rgb(23, 70, 15);
+    color: white;
+    cursor: pointer;
+    padding-left: 25px;
+
+}
+.div3{
+   
+    padding: 6px;
+    border: solid;
+    border-color: grey;
+    border-width: 1px;
+    background-color:  rgb(23, 70, 15);
+    color: white;
+    cursor: pointer;
+    padding-left: 25px;
+
+}
+.div4{
+    
+    padding: 6px;
+    border: solid;
+    border-color: grey;
+    border-width: 1px;
+    background-color:  rgb(23, 70, 15);
+    color: white;
+   
+
+}
+.div5{
+    
+    padding: 6px;
+    border: solid;
+    border-color: grey;
+    border-width: 1px;
+    background-color:  rgb(23, 70, 15);
+    color: white;   
+
+}
+.nav_search::placeholder{
+
+padding-left:10px;
+
+}
+
+.nav_search{
+    width: 220px;
+    border-radius: 5px;
+}
+
+.img-1{
+
+    height: 300px;
+}
+.download{
+    font-size: 25px;
+    color: white;
+}
+
